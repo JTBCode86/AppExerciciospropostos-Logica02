@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppExerciciospropostos-Logica02", "AppExerciciospropostos-Logica02.csproj", "{889DBB05-AAD5-4287-9F96-F2369BC2A481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889DBB05-AAD5-4287-9F96-F2369BC2A481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889DBB05-AAD5-4287-9F96-F2369BC2A481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889DBB05-AAD5-4287-9F96-F2369BC2A481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889DBB05-AAD5-4287-9F96-F2369BC2A481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76E01871-9374-4CE8-AAEE-7D66CA4B9B87}
+	EndGlobalSection
+EndGlobal
